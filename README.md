@@ -8,3 +8,4 @@ Notes on deeplearning papers following original format by Denny Britz.
 #### 2015-02
 
 - Visualizing and Understanding Neural Models in NLP [[arXiv](http://arxiv.org/abs/1506.01066)]
+- Show, Attend and Tell: Neural Image Caption Generation with Visual Attention [[arXiv](http://arxiv.org/abs/1502.03044)]
