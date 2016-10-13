@@ -5,6 +5,10 @@ Notes on deeplearning papers following original format by Denny Britz.
 
 - Sequence to Sequence Learning with Neural Networks [[arXiv](http://arxiv.org/abs/1511.06114)]
 
+#### 2014-12
+
+- Neural Turing Machines [[arXiv](http://arxiv.org/abs/1410.5401)]
+
 #### 2015-02
 
 - Visualizing and Understanding Neural Models in NLP [[arXiv](http://arxiv.org/abs/1506.01066)]
