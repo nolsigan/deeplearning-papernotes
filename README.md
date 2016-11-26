@@ -15,3 +15,7 @@ Notes on deeplearning papers following original format by Denny Britz.
 
 - Neural Turing Machines [[arXiv](http://arxiv.org/abs/1410.5401)]
 - Sequence to Sequence Learning with Neural Networks [[arXiv](http://arxiv.org/abs/1409.3215)]
+
+#### 2012
+
+- ImageNet Classification with Deep Convolutional Neural Networks [[NIPS](http://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf)]
