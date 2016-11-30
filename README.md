@@ -22,3 +22,7 @@ Notes on deeplearning papers following original format by Denny Britz.
 #### 2012
 
 - ImageNet Classification with Deep Convolutional Neural Networks [[NIPS](http://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf)]
+
+#### 2006
+
+- Connectionist Temporal Classification: Labelling unsegmented Sequence Data with Recurrent Neural Networks [[ICML](www.cs.toronto.edu/~graves/icml_2006.pdf)]
