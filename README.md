@@ -3,6 +3,7 @@ Notes on deeplearning papers following original format by Denny Britz.
 
 #### 2016
 
+- Decoupled Neural Interfaces using Synthetic Gradients [[arXiv](https://arxiv.org/abs/1608.05343)]
 - WaveNet: A Generative Model for Raw Audio [[arXiv](http://arxiv.org/abs/1609.03499)]
 
 #### 2015
