@@ -26,4 +26,4 @@ Notes on deeplearning papers following original format by Denny Britz.
 
 #### 2006
 
-- Connectionist Temporal Classification: Labelling unsegmented Sequence Data with Recurrent Neural Networks [[ICML](www.cs.toronto.edu/~graves/icml_2006.pdf)]
+- Connectionist Temporal Classification: Labelling unsegmented Sequence Data with Recurrent Neural Networks [[ICML](http://www.cs.toronto.edu/~graves/icml_2006.pdf)]
