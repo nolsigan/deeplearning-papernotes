@@ -17,7 +17,7 @@ Notes on deeplearning papers following original format by Denny Britz.
 #### 2014
 
 - Reading Text in the Wild with Convolutional Neural Networks [[arXiv](https://arxiv.org/abs/1412.1842)]
-- Neural Turing Machines [[arXiv](http://arxiv.org/abs/1410.5401)]
+- [Neural Turing Machines](/notes/ntm.md) [[arXiv](http://arxiv.org/abs/1410.5401)]
 - [Sequence to Sequence Learning with Neural Networks](/notes/seq_to_seq.md) [[arXiv](http://arxiv.org/abs/1409.3215)]
 
 #### 2012
