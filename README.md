@@ -12,7 +12,7 @@ Notes on deeplearning papers following original format by Denny Britz.
 - Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift [[arXiv](http://arxiv.org/abs/1502.03167)]
 - Deep Residual Learning for Image Recognition [[arXiv](https://arxiv.org/abs/1512.03385)]
 - Visualizing and Understanding Neural Models in NLP [[arXiv](http://arxiv.org/abs/1506.01066)]
-- Show, Attend and Tell: Neural Image Caption Generation with Visual Attention [[arXiv](http://arxiv.org/abs/1502.03044)]
+- [Show, Attend and Tell: Neural Image Caption Generation with Visual Attention](notes/attention.md) [[arXiv](http://arxiv.org/abs/1502.03044)]
 
 #### 2014
 
