@@ -12,7 +12,7 @@ Notes on deeplearning papers following original format by Denny Britz.
 - [Reading Text in the Wild with Convolutional Neural Networks](/notes/reading_text_in_wild.md) [[arXiv](https://arxiv.org/abs/1412.1842)]
 - Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift [[arXiv](http://arxiv.org/abs/1502.03167)]
 - [ImageNet Classification with Deep Convolutional Neural Networks](/notes/alexnet.md) [[NIPS](http://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf)]
-- Deep Residual Learning for Image Recognition [[arXiv](https://arxiv.org/abs/1512.03385)]
+- [Deep Residual Learning for Image Recognition](/notes/residual.md) [[arXiv](https://arxiv.org/abs/1512.03385)]
 
 #### 2016-10
 
