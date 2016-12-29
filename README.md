@@ -3,7 +3,7 @@ Notes on deeplearning papers following original format by Denny Britz.
 
 #### 2016-12
 
-- Building High-level Features Using Large Scale Unsupervised Learning [[arXiv](https://arxiv.org/abs/1112.6209)]
+- [Building High-level Features Using Large Scale Unsupervised Learning](/notes/google_unsupervised.md) [[arXiv](https://arxiv.org/abs/1112.6209)]
 - Decoupled Neural Interfaces using Synthetic Gradients [[arXiv](https://arxiv.org/abs/1608.05343)]
 
 #### 2016-11
