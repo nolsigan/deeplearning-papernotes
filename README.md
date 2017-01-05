@@ -1,6 +1,10 @@
 # deeplearning-papernotes
 Notes on deeplearning papers following original format by Denny Britz.
 
+#### 2017-01
+
+- [Auto-Encoding Variational Bayes](/notes/vae.md) [[arXiv](https://arxiv.org/abs/1312.6114)]
+
 #### 2016-12
 
 - [Building High-level Features Using Large Scale Unsupervised Learning](/notes/google_unsupervised.md) [[arXiv](https://arxiv.org/abs/1112.6209)]
