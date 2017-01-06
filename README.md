@@ -3,7 +3,7 @@ Notes on deeplearning papers following original format by Denny Britz.
 
 #### 2017-01
 
-- Generative Adversarial Nets [[arXiv](https://arxiv.org/abs/1406.2661)]
+- [Generative Adversarial Nets](/notes/gan.md) [[arXiv](https://arxiv.org/abs/1406.2661)]
 - [Auto-Encoding Variational Bayes](/notes/vae.md) [[arXiv](https://arxiv.org/abs/1312.6114)]
 
 #### 2016-12
