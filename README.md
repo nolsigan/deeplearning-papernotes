@@ -3,6 +3,7 @@ Notes on deeplearning papers following original format by Denny Britz.
 
 #### 2017-01
 
+- [Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks](/notes/dcgan.md) [[arXiv](https://arxiv.org/abs/1511.06434)]
 - U-Net: Convolutional Networks for Biomedical Image Segmentation [[arXiv](https://arxiv.org/abs/1505.04597)]
 - [DRAW: A Recurrent Neural Network For Image Generation](/notes/draw.md) [[arXiv](https://arxiv.org/abs/1502.04623)]
 - [Generative Adversarial Nets](/notes/gan.md) [[arXiv](https://arxiv.org/abs/1406.2661)]
