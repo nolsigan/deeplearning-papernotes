@@ -1,9 +1,12 @@
 # deeplearning-papernotes
 Notes on deeplearning papers following original format by Denny Britz.
 
-#### 2017-01
+#### 2017-02
 
 - [Human-level control through deep reinforcement learning](/notes/dqn.md) [[Nature](http://www.nature.com/nature/journal/v518/n7540/full/nature14236.html)]
+
+#### 2017-01
+
 - [Playing Atari with Deep Reinforcement Learning](/notes/dqn.md) [[arXiv](https://arxiv.org/abs/1312.5602)]
 - [Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks](/notes/dcgan.md) [[arXiv](https://arxiv.org/abs/1511.06434)]
 - U-Net: Convolutional Networks for Biomedical Image Segmentation [[arXiv](https://arxiv.org/abs/1505.04597)]
