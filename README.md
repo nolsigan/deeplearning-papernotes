@@ -1,6 +1,10 @@
 # deeplearning-papernotes
 Notes on deeplearning papers following original format by Denny Britz.
 
+#### 2017-04
+
+- Asynchronous Methods for Deep Reinforcement Learning [[arXiv](https://arxiv.org/abs/1602.01783)]
+
 #### 2017-03
 
 - Deep Reinforcement Learning : An Overview [[arXiv](https://arxiv.org/abs/1701.07274)]
