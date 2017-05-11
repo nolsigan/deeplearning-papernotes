@@ -1,6 +1,10 @@
 # deeplearning-papernotes
 Notes on deeplearning papers following original format by Denny Britz.
 
+#### 2017-05
+
+- Learning to Act by Predicting the Future [[arXiv](https://arxiv.org/abs/1611.01779)]
+
 #### 2017-04
 
 - Training Agent for First-Person Shooter Game With Actor-Critic Curriculum Learning [[openreview](https://openreview.net/pdf?id=Hk3mPK5gg)]
