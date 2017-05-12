@@ -8,7 +8,7 @@ Notes on deeplearning papers following original format by Denny Britz.
 #### 2017-04
 
 - Training Agent for First-Person Shooter Game With Actor-Critic Curriculum Learning [[openreview](https://openreview.net/pdf?id=Hk3mPK5gg)]
-- Asynchronous Methods for Deep Reinforcement Learning [[arXiv](https://arxiv.org/abs/1602.01783)]
+- [Asynchronous Methods for Deep Reinforcement Learning](/notes/a3c.md) [[arXiv](https://arxiv.org/abs/1602.01783)]
 
 #### 2017-03
 
