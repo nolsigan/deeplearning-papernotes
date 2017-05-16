@@ -3,7 +3,7 @@ Notes on deeplearning papers following original format by Denny Britz.
 
 #### 2017-05
 
-- Learning to Act by Predicting the Future [[arXiv](https://arxiv.org/abs/1611.01779)]
+- [Learning to Act by Predicting the Future](/notes/learning_by_predicting.md) [[arXiv](https://arxiv.org/abs/1611.01779)]
 
 #### 2017-04
 
