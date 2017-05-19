@@ -3,6 +3,7 @@ Notes on deeplearning papers following original format by Denny Britz.
 
 #### 2017-05
 
+- Curiosity-driven Exploration by Self-supervised Prediction [[blog](https://pathak22.github.io/noreward-rl/)]
 - [Learning from Demonstrations for Real World Reinforcement Learning](/notes/dqfd.md) [[arXiv](https://arxiv.org/abs/1704.03732)]
 - [Learning to Act by Predicting the Future](/notes/learning_by_predicting.md) [[arXiv](https://arxiv.org/abs/1611.01779)]
 
