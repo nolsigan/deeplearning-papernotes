@@ -3,6 +3,9 @@ Notes on deeplearning papers following original format by Denny Britz.
 
 #### 2017-05
 
+- Neural Map: Structured Memory for Deep Reinforcement Learning [[arXiv](https://arxiv.org/abs/1702.08360)]
+- RL^2: Fast Reinforcement Learning via Slow Reinforcement Learning [[arXiv](https://arxiv.org/abs/1611.02779)]
+- Automatic Goal Generation for Reinforcement Learning Agents [[arXiv](https://arxiv.org/abs/1705.06366)]
 - Deep Successor Reinforcement Learning [[arXiv](https://arxiv.org/abs/1606.02396)]
 - Curiosity-driven Exploration by Self-supervised Prediction [[blog](https://pathak22.github.io/noreward-rl/)]
 - [Learning from Demonstrations for Real World Reinforcement Learning](/notes/dqfd.md) [[arXiv](https://arxiv.org/abs/1704.03732)]
