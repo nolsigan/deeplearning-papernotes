@@ -1,6 +1,12 @@
 # deeplearning-papernotes
 Notes on deeplearning papers following original format by Denny Britz.
 
+#### 2017-06
+
+- DeepCoder: Learning to Write Programs [[arXiv](https://arxiv.org/abs/1611.01989)]
+- Making Neural Programming Architectures Generalize via Recursion [[arXiv](https://arxiv.org/abs/1704.06611)]
+- Neural Programmer-Interpreters [[arXiv](https://arxiv.org/abs/1511.06279)]
+
 #### 2017-05
 
 - Neural Map: Structured Memory for Deep Reinforcement Learning [[arXiv](https://arxiv.org/abs/1702.08360)]
