@@ -3,6 +3,10 @@ Notes on deeplearning papers following original format by Denny Britz.
 
 #### 2017-06
 
+- Physics 101: Learning Physical Object Properties from Unlabeled Videos [[phys101](http://phys101.csail.mit.edu/)]
+- DeepCoder: Learning to Write Programs [[arXiv](https://arxiv.org/abs/1611.01989v2)]
+- Visual Interaction Network [[arXiv](https://arxiv.org/abs/1706.01433v1)]
+- A simple neural network module for relational reasoning [[arXiv](https://arxiv.org/abs/1706.01427v1)]
 - DeepCoder: Learning to Write Programs [[arXiv](https://arxiv.org/abs/1611.01989)]
 - Making Neural Programming Architectures Generalize via Recursion [[arXiv](https://arxiv.org/abs/1704.06611)]
 - Neural Programmer-Interpreters [[arXiv](https://arxiv.org/abs/1511.06279)]
