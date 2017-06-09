@@ -3,6 +3,8 @@ Notes on deeplearning papers following original format by Denny Britz.
 
 #### 2017-06
 
+- FeUdal Networks for Hierarchical Reinforcement Learning [[arXiv](https://arxiv.org/abs/1703.01161v2)]
+- Learning to Compute Word Embeddings On the Fly [[arXiv](https://arxiv.org/abs/1706.00286v2)]
 - Physics 101: Learning Physical Object Properties from Unlabeled Videos [[phys101](http://phys101.csail.mit.edu/)]
 - DeepCoder: Learning to Write Programs [[arXiv](https://arxiv.org/abs/1611.01989v2)]
 - Visual Interaction Network [[arXiv](https://arxiv.org/abs/1706.01433v1)]
