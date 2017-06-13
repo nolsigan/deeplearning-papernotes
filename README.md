@@ -3,6 +3,11 @@ Notes on deeplearning papers following original format by Denny Britz.
 
 #### 2017-06
 
+- Attention Is All You Need [[arXiv](https://arxiv.org/abs/1706.03762)]
+- Towards Principled Unsupervised Learning [[arXiv](https://arxiv.org/abs/1511.06440)]
+- Learning to Reason: End-to-End Module Networks for Visual Question Answering [[arXiv](https://arxiv.org/abs/1704.05526)]
+- StreetStyle: Exploring world-wide clothing styles from millions of photos [[arXiv](https://arxiv.org/abs/1706.01869)]
+- Learning Neural Programs To Parse Programs [[arXiv](https://arxiv.org/abs/1706.01284v1)]
 - FeUdal Networks for Hierarchical Reinforcement Learning [[arXiv](https://arxiv.org/abs/1703.01161v2)]
 - Learning to Compute Word Embeddings On the Fly [[arXiv](https://arxiv.org/abs/1706.00286v2)]
 - Physics 101: Learning Physical Object Properties from Unlabeled Videos [[phys101](http://phys101.csail.mit.edu/)]
